@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Chadwick Sterling MS
+
+This is a sample web page developed as part of the GH markdown training 
