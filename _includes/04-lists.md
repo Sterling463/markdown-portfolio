@@ -1,4 +1,4 @@
-#. Write the list
-#. Select Commit
-#. Confirm your success
-#. Merge the Commit
+1. Write the list
+2. Select Commit
+3. Confirm your success
+4. Merge the Commit
